@@ -33,3 +33,6 @@ O projeto foi desenvolvido em **Python**, utilizando a biblioteca **DearPyGui** 
 Python 3.9+
 DearPyGui 1.7+
 Threads para paralelismo
+```
+## Executa o script Python
+python src\n_queens_optimized_comparison.py
